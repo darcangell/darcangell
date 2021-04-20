@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @darcangell
-- 👀 I’m a linux and data science enthusiast
-- 🌱 I’m a student and currently pursuing masters in ML
+In God we trust, others must bring DATA! 
 
 <!---
 darcangell/darcangell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
